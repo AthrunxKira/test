@@ -5,7 +5,7 @@ services:
     image: compose/python_app
     build: .
     ports:
-      - "5000:5000"
+      - "5000:5000" 
     volumes:
       - .:/code
     depends_on:
