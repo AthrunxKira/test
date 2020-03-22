@@ -1,0 +1,14 @@
+/Users/chenjun/MyProject/test/bin/Debug/netcoreapp2.2/test.deps.json
+/Users/chenjun/MyProject/test/bin/Debug/netcoreapp2.2/test.runtimeconfig.json
+/Users/chenjun/MyProject/test/bin/Debug/netcoreapp2.2/test.runtimeconfig.dev.json
+/Users/chenjun/MyProject/test/bin/Debug/netcoreapp2.2/test.dll
+/Users/chenjun/MyProject/test/bin/Debug/netcoreapp2.2/test.pdb
+/Users/chenjun/MyProject/test/obj/Debug/netcoreapp2.2/test.csprojAssemblyReference.cache
+/Users/chenjun/MyProject/test/obj/Debug/netcoreapp2.2/test.csproj.CoreCompileInputs.cache
+/Users/chenjun/MyProject/test/obj/Debug/netcoreapp2.2/test.RazorAssemblyInfo.cache
+/Users/chenjun/MyProject/test/obj/Debug/netcoreapp2.2/test.RazorAssemblyInfo.cs
+/Users/chenjun/MyProject/test/obj/Debug/netcoreapp2.2/test.AssemblyInfoInputs.cache
+/Users/chenjun/MyProject/test/obj/Debug/netcoreapp2.2/test.AssemblyInfo.cs
+/Users/chenjun/MyProject/test/obj/Debug/netcoreapp2.2/test.RazorTargetAssemblyInfo.cache
+/Users/chenjun/MyProject/test/obj/Debug/netcoreapp2.2/test.dll
+/Users/chenjun/MyProject/test/obj/Debug/netcoreapp2.2/test.pdb
